@@ -1,0 +1,52 @@
+[05:35:29] [ServerMain/INFO]: Building unoptimized datafixer
+[05:35:30] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05:35:31] [ServerMain/INFO]: Loaded 7 recipes
+[05:35:31] [ServerMain/INFO]: Loaded 1179 advancements
+[05:35:32] [Server thread/INFO]: Starting minecraft server version 1.19
+[05:35:32] [Server thread/INFO]: Loading properties
+[05:35:32] [Server thread/INFO]: Default game type: SURVIVAL
+[05:35:32] [Server thread/INFO]: Generating keypair
+[05:35:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:35:32] [Server thread/INFO]: Using epoll channel type
+[05:35:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05:35:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[05:35:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05:35:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[05:35:32] [Server thread/INFO]: Preparing level "world"
+[05:35:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:35:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:35:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:35:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:35:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:35:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:35:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:35:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:35:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:35:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:35:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:35:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:35:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:35:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:35:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:35:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:35:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:35:41] [Worker-Main-1/INFO]: Preparing spawn area: 16%
+[05:35:41] [Worker-Main-2/INFO]: Preparing spawn area: 68%
+[05:35:42] [Server thread/INFO]: Time elapsed: 8841 ms
+[05:35:42] [Server thread/INFO]: Done (9.092s)! For help, type "help"
+[05:40:55] [Server thread/INFO]: MACHuuu012[/192.168.193.36:55870] logged in with entity id 54 at (-269.8766466241304, 160.94399739041492, -1198.524273228579)
+[05:40:55] [Server thread/INFO]: MACHuuu012 joined the game
+[05:41:25] [Server thread/INFO]: MACHuuu012 lost connection: Timed out
+[05:41:25] [Server thread/INFO]: MACHuuu012 left the game
+[05:42:29] [Server thread/INFO]: MACHuuu012[/192.168.193.36:55957] logged in with entity id 228 at (-272.69999998807907, 163.03047733397293, -1199.699999988079)
+[05:42:29] [Server thread/INFO]: MACHuuu012 joined the game
+[05:42:41] [Server thread/INFO]: MACHuuu012 was slain by Shulker
+[05:42:59] [Server thread/INFO]: MACHuuu012 lost connection: Timed out
+[05:42:59] [Server thread/INFO]: MACHuuu012 left the game
+[05:43:29] [Server thread/INFO]: MACHuuu012[/192.168.193.36:55990] logged in with entity id 334 at (-272.69999998807907, 163.03047733397293, -1199.699999988079)
+[05:43:29] [Server thread/INFO]: MACHuuu012 joined the game
+[05:43:32] [Server thread/WARN]: MACHuuu012 moved too quickly! 0.0,-10.806526110009003,0.0
+[05:44:07] [Server thread/INFO]: MACHuuu012 lost connection: Timed out
+[05:44:07] [Server thread/INFO]: MACHuuu012 left the game
+[05:44:27] [Server thread/INFO]: MACHuuu012[/192.168.193.36:56031] logged in with entity id 658 at (1112.2218108756501, -17.0, -2135.6803295606956)
+[05:44:27] [Server thread/INFO]: MACHuuu012 joined the game
