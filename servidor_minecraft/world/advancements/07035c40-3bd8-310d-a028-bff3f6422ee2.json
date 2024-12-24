@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-12-24 08:15:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 04:50:44 +0000"
@@ -653,6 +659,7 @@
       "minecraft:skeleton": "2024-12-21 04:59:26 +0000",
       "minecraft:ghast": "2024-12-22 08:37:37 +0000",
       "minecraft:hoglin": "2024-12-22 03:56:39 +0000",
+      "minecraft:magma_cube": "2024-12-24 08:15:53 +0000",
       "minecraft:spider": "2024-12-21 04:59:11 +0000",
       "minecraft:creeper": "2024-12-21 07:02:44 +0000",
       "minecraft:zombified_piglin": "2024-12-22 03:41:01 +0000",
@@ -1957,6 +1964,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-24 08:16:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2024-12-21 03:24:19 +0000"
@@ -2050,6 +2063,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2024-12-21 04:44:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-12-24 08:15:00 +0000"
     },
     "done": true
   },
@@ -2650,6 +2669,12 @@
   "minecraft:recipes/decorations/shulker_box": {
     "criteria": {
       "has_shulker_shell": "2024-12-23 05:09:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-12-24 08:16:29 +0000"
     },
     "done": true
   },
