@@ -610,6 +610,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-24 07:25:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-21 03:41:04 +0000"
