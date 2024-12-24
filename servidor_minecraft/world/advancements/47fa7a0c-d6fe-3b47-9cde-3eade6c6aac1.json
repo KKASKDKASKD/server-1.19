@@ -571,6 +571,7 @@
       "minecraft:creeper": "2024-12-21 04:19:04 +0000",
       "minecraft:wither_skeleton": "2024-12-22 04:00:42 +0000",
       "minecraft:shulker": "2024-12-23 05:09:23 +0000",
+      "minecraft:cave_spider": "2024-12-24 06:37:43 +0000",
       "minecraft:piglin": "2024-12-22 05:40:55 +0000",
       "minecraft:enderman": "2024-12-21 04:20:12 +0000",
       "minecraft:zombie": "2024-12-21 03:48:45 +0000"
@@ -1620,6 +1621,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2024-12-24 06:02:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2024-12-23 05:09:00 +0000"
@@ -2013,6 +2020,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2024-12-22 05:53:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2024-12-24 06:02:48 +0000"
     },
     "done": true
   },
