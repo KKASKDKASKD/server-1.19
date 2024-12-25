@@ -61,3 +61,5 @@
 [23:04:11] [Server thread/INFO]: MACHuuu012 left the game
 [23:04:21] [Server thread/INFO]: MACHuuu012[/192.168.193.36:54407] logged in with entity id 11866 at (728.0793791391866, 65.00133597911214, -612.3952296026446)
 [23:04:21] [Server thread/INFO]: MACHuuu012 joined the game
+[23:14:31] [Server thread/INFO]: Villager bss['Librarian'/11911, l='ServerLevel[world]', x=719.51, y=64.03, z=-616.41] died, message: 'Librarian drowned'
+[23:19:45] [Server thread/INFO]: Villager bss['Villager'/13958, l='ServerLevel[world]', x=695.43, y=62.90, z=-655.65] died, message: 'Villager was slain by MACHuuu012'
