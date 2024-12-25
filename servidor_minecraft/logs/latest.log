@@ -50,3 +50,4 @@
 [22:25:03] [Server thread/INFO]: MACHuuu012 was slain by Piglin Brute
 [22:25:48] [Server thread/WARN]: MACHuuu012 moved too quickly! 10.158931599365232,0.0,0.10222745341353345
 [22:27:47] [Server thread/INFO]: MACHuuu012 was slain by Piglin Brute
+[22:35:15] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=162, y=92, z=132} gt{x=144, y=91, z=140}
