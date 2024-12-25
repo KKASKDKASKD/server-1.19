@@ -64,3 +64,15 @@
 [23:14:31] [Server thread/INFO]: Villager bss['Librarian'/11911, l='ServerLevel[world]', x=719.51, y=64.03, z=-616.41] died, message: 'Librarian drowned'
 [23:19:45] [Server thread/INFO]: Villager bss['Villager'/13958, l='ServerLevel[world]', x=695.43, y=62.90, z=-655.65] died, message: 'Villager was slain by MACHuuu012'
 [23:28:06] [Server thread/INFO]: MACHuuu012 was shot by Skeleton
+[23:35:24] [Server thread/INFO]: MACHuuu012 lost connection: Timed out
+[23:35:24] [Server thread/INFO]: MACHuuu012 left the game
+[23:35:41] [Server thread/INFO]: MACHuuu012[/192.168.193.36:54592] logged in with entity id 18224 at (790.3000000119209, 79.07753411882425, -420.30000001192093)
+[23:35:41] [Server thread/INFO]: MACHuuu012 joined the game
+[23:36:26] [Server thread/INFO]: MACHuuu012 lost connection: Disconnected
+[23:36:26] [Server thread/INFO]: MACHuuu012 left the game
+[23:37:40] [Server thread/INFO]: MACHuuu012[/192.168.193.36:54632] logged in with entity id 18486 at (790.3000000119209, 78.71034239525187, -420.30000001192093)
+[23:37:40] [Server thread/INFO]: MACHuuu012 joined the game
+[23:38:22] [Server thread/INFO]: MACHuuu012 lost connection: Timed out
+[23:38:22] [Server thread/INFO]: MACHuuu012 left the game
+[23:38:29] [Server thread/INFO]: MACHuuu012[/192.168.193.36:54652] logged in with entity id 18737 at (790.3000000119209, 77.94186619283889, -420.30000001192093)
+[23:38:29] [Server thread/INFO]: MACHuuu012 joined the game
