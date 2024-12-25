@@ -53,3 +53,6 @@
 [22:35:15] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=162, y=92, z=132} gt{x=144, y=91, z=140}
 [22:45:48] [Server thread/INFO]: MACHuuu012 fell from a high place
 [22:53:19] [Server thread/INFO]: Villager bss['Leatherworker'/7775, l='ServerLevel[world]', x=698.55, y=62.90, z=-646.73] died, message: 'Leatherworker was slain by Zombie Villager'
+[22:55:03] [Server thread/INFO]: Villager bss['Villager'/9489, l='ServerLevel[world]', x=64.12, y=121.00, z=-91.50] died, message: 'Villager was slain by MACHuuu012'
+[22:59:11] [Server thread/INFO]: Villager bss['Villager'/9954, l='ServerLevel[world]', x=759.02, y=63.00, z=-759.06] died, message: 'Villager hit the ground too hard'
+[23:03:59] [Server thread/WARN]: MACHuuu012 moved too quickly! 6.607026036345928,0.7967356006687041,7.76428522240235
