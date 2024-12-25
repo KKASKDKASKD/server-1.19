@@ -56,3 +56,8 @@
 [22:55:03] [Server thread/INFO]: Villager bss['Villager'/9489, l='ServerLevel[world]', x=64.12, y=121.00, z=-91.50] died, message: 'Villager was slain by MACHuuu012'
 [22:59:11] [Server thread/INFO]: Villager bss['Villager'/9954, l='ServerLevel[world]', x=759.02, y=63.00, z=-759.06] died, message: 'Villager hit the ground too hard'
 [23:03:59] [Server thread/WARN]: MACHuuu012 moved too quickly! 6.607026036345928,0.7967356006687041,7.76428522240235
+[23:04:11] [Server thread/WARN]: MACHuuu012 was kicked for floating too long!
+[23:04:11] [Server thread/INFO]: MACHuuu012 lost connection: Flying is not enabled on this server
+[23:04:11] [Server thread/INFO]: MACHuuu012 left the game
+[23:04:21] [Server thread/INFO]: MACHuuu012[/192.168.193.36:54407] logged in with entity id 11866 at (728.0793791391866, 65.00133597911214, -612.3952296026446)
+[23:04:21] [Server thread/INFO]: MACHuuu012 joined the game
