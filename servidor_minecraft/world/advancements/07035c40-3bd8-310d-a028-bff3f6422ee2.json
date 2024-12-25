@@ -461,6 +461,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-25 22:20:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-21 05:27:55 +0000"
@@ -632,6 +638,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2024-12-21 03:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-12-25 22:20:11 +0000"
     },
     "done": true
   },
@@ -1965,6 +1977,7 @@
       "bread": "2024-12-22 06:03:33 +0000",
       "rotten_flesh": "2024-12-22 05:48:13 +0000",
       "salmon": "2024-12-21 04:52:57 +0000",
+      "golden_carrot": "2024-12-25 22:19:35 +0000",
       "cooked_chicken": "2024-12-21 03:32:19 +0000",
       "cooked_salmon": "2024-12-21 05:03:16 +0000",
       "carrot": "2024-12-21 08:10:18 +0000"
@@ -2874,6 +2887,12 @@
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2024-12-24 08:16:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-25 22:20:11 +0000"
     },
     "done": true
   },

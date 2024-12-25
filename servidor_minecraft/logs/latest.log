@@ -46,3 +46,4 @@
 [22:04:53] [Server thread/INFO]: MACHuuu012 has made the advancement [Hidden in the Depths]
 [22:06:09] [Server thread/INFO]: MACHuuu012 has made the advancement [Who is Cutting Onions?]
 [22:13:13] [Server thread/INFO]: MACHuuu012 burned to death
+[22:15:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=150, y=95, z=-127} gt{x=150, y=94, z=-128}
