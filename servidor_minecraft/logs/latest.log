@@ -51,3 +51,5 @@
 [22:25:48] [Server thread/WARN]: MACHuuu012 moved too quickly! 10.158931599365232,0.0,0.10222745341353345
 [22:27:47] [Server thread/INFO]: MACHuuu012 was slain by Piglin Brute
 [22:35:15] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=162, y=92, z=132} gt{x=144, y=91, z=140}
+[22:45:48] [Server thread/INFO]: MACHuuu012 fell from a high place
+[22:53:19] [Server thread/INFO]: Villager bss['Leatherworker'/7775, l='ServerLevel[world]', x=698.55, y=62.90, z=-646.73] died, message: 'Leatherworker was slain by Zombie Villager'
