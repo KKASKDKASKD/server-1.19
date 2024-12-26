@@ -8,3 +8,15 @@
 [01:48:29] [Server thread/INFO]: Villager bss['Villager'/38944, l='ServerLevel[world]', x=838.71, y=82.80, z=-451.27] died, message: 'Villager was slain by Zombie Villager'
 [03:23:40] [Server thread/INFO]: MACHuuu012 lost connection: Timed out
 [03:23:40] [Server thread/INFO]: MACHuuu012 left the game
+[04:51:34] [Server thread/INFO]: Fideopicante[/192.168.193.241:61480] logged in with entity id 52673 at (694.0735407786512, 63.0, -648.0398817766333)
+[04:51:34] [Server thread/INFO]: Fideopicante joined the game
+[04:52:19] [Server thread/INFO]: Fideopicante lost connection: Timed out
+[04:52:19] [Server thread/INFO]: Fideopicante left the game
+[04:52:37] [Server thread/INFO]: Fideopicante[/192.168.193.241:61495] logged in with entity id 52997 at (694.0735407786512, 63.0, -648.0398817766333)
+[04:52:37] [Server thread/INFO]: Fideopicante joined the game
+[04:52:56] [Server thread/WARN]: Fideopicante was kicked for floating too long!
+[04:52:57] [Server thread/INFO]: Fideopicante lost connection: Flying is not enabled on this server
+[04:52:57] [Server thread/INFO]: Fideopicante left the game
+[04:53:20] [Server thread/INFO]: Fideopicante[/192.168.193.241:61504] logged in with entity id 53283 at (695.5677720341265, 63.7531999805212, -637.5240042167987)
+[04:53:20] [Server thread/INFO]: Fideopicante joined the game
+[04:55:13] [Server thread/WARN]: Fideopicante moved too quickly! 0.9889250203065103,-1.1767592750642422,10.054743154934386
