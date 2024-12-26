@@ -43,3 +43,19 @@
 [21:18:17] [Server thread/INFO]: Villager bss['Villager'/1393, l='ServerLevel[world]', x=706.94, y=62.90, z=-646.56] died, message: 'Villager was slain by MACHuuu012'
 [21:18:54] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=719, y=65, z=-616} gt{x=720, y=64, z=-632}
 [21:19:43] [Server thread/INFO]: Villager bss['Fletcher'/1381, l='ServerLevel[world]', x=699.63, y=63.00, z=-641.37] died, message: 'Fletcher was slain by MACHuuu012'
+[21:45:00] [Server thread/INFO]: MACHuuu012 was slain by Enderman
+[21:47:52] [Server thread/INFO]: MACHuuu012 lost connection: Disconnected
+[21:47:52] [Server thread/INFO]: MACHuuu012 left the game
+[21:48:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[21:48:04] [Server thread/INFO]: STOP<--[HERE]
+[21:48:06] [Server thread/INFO]: Stopping the server
+[21:48:06] [Server thread/INFO]: Stopping server
+[21:48:06] [Server thread/INFO]: Saving players
+[21:48:06] [Server thread/INFO]: Saving worlds
+[21:48:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:48:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:48:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:48:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:48:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:48:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:48:07] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
