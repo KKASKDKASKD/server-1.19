@@ -1,34 +1,45 @@
-[20:25:53] [ServerMain/INFO]: Building unoptimized datafixer
-[20:25:54] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20:25:56] [ServerMain/INFO]: Loaded 7 recipes
-[20:25:56] [ServerMain/INFO]: Loaded 1179 advancements
-[20:25:57] [Server thread/INFO]: Starting minecraft server version 1.19
-[20:25:57] [Server thread/INFO]: Loading properties
-[20:25:57] [Server thread/INFO]: Default game type: SURVIVAL
-[20:25:57] [Server thread/INFO]: Generating keypair
-[20:25:57] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:25:57] [Server thread/INFO]: Using epoll channel type
-[20:25:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:25:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:25:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:25:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:25:57] [Server thread/INFO]: Preparing level "world"
-[20:25:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:26:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:26:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:26:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:26:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:26:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:26:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:26:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:26:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:26:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:26:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:26:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:26:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:26:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:26:04] [Worker-Main-3/INFO]: Preparing spawn area: 19%
-[20:26:04] [Worker-Main-2/INFO]: Preparing spawn area: 67%
-[20:26:04] [Server thread/INFO]: Time elapsed: 7328 ms
-[20:26:04] [Server thread/INFO]: Done (7.632s)! For help, type "help"
-[20:26:30] [Server thread/INFO]: Seed: [-5381267751233641319]
+[21:03:48] [ServerMain/INFO]: Building unoptimized datafixer
+[21:03:49] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:03:51] [ServerMain/INFO]: Loaded 7 recipes
+[21:03:51] [ServerMain/INFO]: Loaded 1179 advancements
+[21:03:52] [Server thread/INFO]: Starting minecraft server version 1.19
+[21:03:52] [Server thread/INFO]: Loading properties
+[21:03:52] [Server thread/INFO]: Default game type: SURVIVAL
+[21:03:52] [Server thread/INFO]: Generating keypair
+[21:03:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:03:52] [Server thread/INFO]: Using epoll channel type
+[21:03:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:03:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:03:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:03:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:03:52] [Server thread/INFO]: Preparing level "world"
+[21:03:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:03:58] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:03:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:03:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:03:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:03:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:03:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:03:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:03:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:03:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:03:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:03:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:03:58] [Worker-Main-1/INFO]: Preparing spawn area: 5%
+[21:03:58] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[21:03:59] [Server thread/INFO]: Time elapsed: 6375 ms
+[21:03:59] [Server thread/INFO]: Done (6.723s)! For help, type "help"
+[21:05:27] [Server thread/INFO]: MACHuuu012[/192.168.193.36:62425] logged in with entity id 51 at (-117.29784885690066, 61.875, -320.3023115957324)
+[21:05:27] [Server thread/INFO]: MACHuuu012 joined the game
+[21:06:29] [Server thread/INFO]: MACHuuu012 lost connection: Timed out
+[21:06:29] [Server thread/INFO]: MACHuuu012 left the game
+[21:06:39] [Server thread/INFO]: MACHuuu012[/192.168.193.36:62436] logged in with entity id 208 at (-115.60923632197695, 61.0, -321.1051831730831)
+[21:06:39] [Server thread/INFO]: MACHuuu012 joined the game
+[21:11:08] [Server thread/INFO]: MACHuuu012 lost connection: Timed out
+[21:11:08] [Server thread/INFO]: MACHuuu012 left the game
+[21:11:18] [Server thread/INFO]: MACHuuu012[/192.168.193.36:62464] logged in with entity id 1331 at (706.6999969482422, 63.0, -642.5)
+[21:11:18] [Server thread/INFO]: MACHuuu012 joined the game
+[21:18:12] [Server thread/INFO]: Villager bss['Villager'/1398, l='ServerLevel[world]', x=706.48, y=62.00, z=-648.01] died, message: 'Villager was slain by MACHuuu012'
+[21:18:17] [Server thread/INFO]: Villager bss['Villager'/1393, l='ServerLevel[world]', x=706.94, y=62.90, z=-646.56] died, message: 'Villager was slain by MACHuuu012'
+[21:18:54] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=719, y=65, z=-616} gt{x=720, y=64, z=-632}
+[21:19:43] [Server thread/INFO]: Villager bss['Fletcher'/1381, l='ServerLevel[world]', x=699.63, y=63.00, z=-641.37] died, message: 'Fletcher was slain by MACHuuu012'
