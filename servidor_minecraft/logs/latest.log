@@ -1,3 +1,7 @@
 [00:11:37] [Server thread/INFO]: Villager bss['Villager'/18767, l='ServerLevel[world]', x=744.52, y=85.00, z=-380.69] died, message: 'Villager was shot by MACHuuu012'
 [00:13:54] [Server thread/INFO]: MACHuuu012 tried to swim in lava
 [00:15:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=760, y=66, z=-547} gt{x=761, y=64, z=-545}
+[01:40:24] [Server thread/INFO]: MACHuuu012 lost connection: Timed out
+[01:40:24] [Server thread/INFO]: MACHuuu012 left the game
+[01:41:17] [Server thread/INFO]: MACHuuu012[/192.168.193.36:55361] logged in with entity id 38910 at (794.6999999880791, 79.12160004615784, -423.30000001192093)
+[01:41:17] [Server thread/INFO]: MACHuuu012 joined the game
