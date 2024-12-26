@@ -1,2 +1,3 @@
 [00:11:37] [Server thread/INFO]: Villager bss['Villager'/18767, l='ServerLevel[world]', x=744.52, y=85.00, z=-380.69] died, message: 'Villager was shot by MACHuuu012'
 [00:13:54] [Server thread/INFO]: MACHuuu012 tried to swim in lava
+[00:15:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=760, y=66, z=-547} gt{x=761, y=64, z=-545}
