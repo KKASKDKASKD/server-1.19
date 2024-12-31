@@ -730,6 +730,7 @@
       "minecraft:wither_skeleton": "2024-12-22 03:59:43 +0000",
       "minecraft:ender_dragon": "2024-12-22 09:25:38 +0000",
       "minecraft:shulker": "2024-12-23 05:09:15 +0000",
+      "minecraft:cave_spider": "2024-12-31 06:39:09 +0000",
       "minecraft:piglin": "2024-12-22 03:51:13 +0000",
       "minecraft:enderman": "2024-12-22 02:00:19 +0000",
       "minecraft:silverfish": "2024-12-22 08:00:26 +0000",
@@ -1438,6 +1439,7 @@
       "minecraft:flower_forest": "2024-12-26 07:02:45 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-21 03:34:16 +0000",
       "minecraft:deep_dark": "2024-12-22 08:07:20 +0000",
+      "minecraft:meadow": "2024-12-31 06:35:30 +0000",
       "minecraft:plains": "2024-12-21 03:47:21 +0000"
     },
     "done": false
@@ -1619,6 +1621,12 @@
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2024-12-22 05:40:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-12-31 06:37:29 +0000"
     },
     "done": true
   },
@@ -2018,6 +2026,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2024-12-21 07:12:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-12-31 06:37:29 +0000"
     },
     "done": true
   },

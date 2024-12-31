@@ -77,3 +77,19 @@
 [06:23:40] [Server thread/INFO]: MACHuuu012[/192.168.193.36:57971] logged in with entity id 12025 at (1337.2432908756462, 47.0, -981.4462419595689)
 [06:23:40] [Server thread/INFO]: MACHuuu012 joined the game
 [06:25:10] [Server thread/INFO]: <MACHuuu012> 1337 982
+[06:33:04] [Server thread/WARN]: MACHuuu012 moved too quickly! -6.555986743001313,2.7531999805212024,7.3598499180103545
+[06:34:43] [Server thread/INFO]: MACHuuu012 fell from a high place
+[06:41:42] [Server thread/INFO]: MACHuuu012 was slain by Zombie
+[06:42:09] [Server thread/INFO]: MACHuuu012 lost connection: Disconnected
+[06:42:09] [Server thread/INFO]: MACHuuu012 left the game
+[06:42:23] [Server thread/INFO]: Stopping the server
+[06:42:23] [Server thread/INFO]: Stopping server
+[06:42:23] [Server thread/INFO]: Saving players
+[06:42:23] [Server thread/INFO]: Saving worlds
+[06:42:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:42:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06:42:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06:42:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:42:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:42:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:42:24] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
